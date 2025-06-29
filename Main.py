@@ -21,7 +21,7 @@ font = pygame.font.Font(None, 36)
 large_font = pygame.font.Font(None, 48)
 
 # OpenWeather API settings
-API_KEY = "04895bf34e0be0d59c86fc323f54efea"
+API_KEY = "USE YOUR API KEYS"
 CITY = "Dhupguri, India"
 URL = f"http://api.openweathermap.org/data/2.5/weather?q={CITY}&appid={API_KEY}&units=metric"
 

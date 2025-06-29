@@ -45,7 +45,7 @@ class WeatherApp:
         self.get_weather_data()
 
     def get_weather_data(self):
-        api_key = "04895bf34e0be0d59c86fc323f54efea"
+        api_key = "USE YOUR API KEY"
         city = "Dhupguri, IN"
         url = f"http://api.openweathermap.org/data/2.5/weather?q={city}&appid={api_key}&units=metric"
 
